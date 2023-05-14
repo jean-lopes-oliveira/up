@@ -1,0 +1,12 @@
+{
+    "name":"up/sistema",
+    "autoload":{
+        "psr-4":{
+            "System\\":"system/"
+
+        }
+    },
+    "require": {
+        "league/plates": "^3.5"
+    }
+}
